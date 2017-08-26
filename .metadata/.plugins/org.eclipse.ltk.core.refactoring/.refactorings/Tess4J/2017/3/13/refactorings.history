@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 packages to &apos;OCR/src&apos;&#x0D;&#x0A;- Original project: &apos;Tess4J&apos;&#x0D;&#x0A;- Destination element: &apos;OCR/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Tess4J/src/net.sourceforge.tess4j&#x0D;&#x0A;     Tess4J/src/net.sourceforge.tess4j.util&#x0D;&#x0A;     Tess4J/src/com.recognition.software.jdeskew" description="Copy packages" destination="=OCR/src" element1="/src&lt;net.sourceforge.tess4j" element2="/src&lt;net.sourceforge.tess4j.util" element3="/src&lt;com.recognition.software.jdeskew" flags="589830" fragments="3" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1490578602182" version="1.0"/>
+</session>
