@@ -110,7 +110,8 @@ public class GUI {
 		btnReadImage.addSelectionListener(new SelectionAdapter() {
 			@Override
 			public void widgetSelected(SelectionEvent e) {
-				txtTesseract.setText("teste de commit GitHub");
+				txtTesseract.setText("teste");
+				txtTesseract.setText("teste 02");
 				
 				try{
 					File imageFile = new File(directory);	
